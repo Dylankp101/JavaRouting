@@ -29,18 +29,18 @@ public class RoutingGetFamiliarApplication {
 	public String codingJAVA() {
 		return "Java/Spring is better!";
 	}
-    @RequestMapping("/dojo")
-    public String showDojo(){
-    	return "The is Aawesom!" ;
-    }
-    @RequestMapping("/burbank-dojo}")
-    public String showDojoBurbank(){
-    	return "The is located in southern California!" ;
-    }
-    @RequestMapping("/sanjose")
-    public String showDojoSanJose(){
-    	return "The San Jose is the Headquarters!" ;
-    }
+//    @RequestMapping("/dojo")
+//    public String showDojo(){
+//    	return "The is Aawesom!" ;
+//    }
+//    @RequestMapping("/burbank-dojo}")
+//    public String showDojoBurbank(){
+//    	return "The is located in southern California!" ;
+//    }
+//    @RequestMapping("/sanjose")
+//    public String showDojoSanJose(){
+//    	return "The San Jose is the Headquarters!" ;
+//    }
 	
 }
 
